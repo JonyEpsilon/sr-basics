@@ -1,14 +1,9 @@
 # sr-basics
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A tutorial introduction to symbolic regresion. See the ws/ directory for the worksheets.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Jony Hudson
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+The code in this project is licenced to you under the MIT license.
