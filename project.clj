@@ -5,4 +5,4 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [expresso "0.2.0"]]
-  :plugins [[lein-gorilla "0.3.0-SNAPSHOT"]])
+  :plugins [[lein-gorilla "0.3.4"]])
