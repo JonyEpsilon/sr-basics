@@ -417,6 +417,8 @@ print "Expression"
 ;; **
 ;;; Timings of the various steps in each generation.
 ;;; 
+;;; s
+;;; 
 ;;; "Red" - selection time
 ;;; "Green" Reproduction time 
 ;;; "Blue"  Scoring time
