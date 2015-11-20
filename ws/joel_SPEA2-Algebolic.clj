@@ -866,8 +866,103 @@ print "Expression"
 ;;; defined a new r-result
 ;;; defined a new r-result
 ;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; average score: 24.783617617450382
+;;; max size 920
+;;; finished evolve
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; average score: 24.387289903845925
+;;; max size 970
+;;; finished evolve
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; average score: 24.04706396203029
+;;; max size 1020
+;;; finished evolve
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; defined a new r-result
+;;; average score: 24.19471426605831
+;;; x-coords [20 70 120 170 220 270 320 370 420 470 520 570 620 670 720 770 820 870 920 970 1020]
+;;; y coords [24.31605332865524 24.310307910124596 24.24487752206849 24.2671294858879 23.99213295088448 24.518572111905293 23.911039029954956 24.669000106056284 24.172128326734722 23.463711137655434 24.389743801199735 24.65251863429303 24.080244965945788 24.304410922513494 23.56390431700292 24.128413018941078 24.609154534015353 24.783617617450382 24.387289903845925 24.04706396203029 24.19471426605831]
 ;;; 
 ;; <-
+;; =>
+;;; {"type":"vega","content":{"width":400,"height":247.2187957763672,"padding":{"bottom":20,"top":10,"right":10,"left":50},"scales":[{"name":"x","type":"linear","range":"width","zero":false,"domain":{"data":"ed16f5c1-519d-4270-b505-ce4dcc8504da","field":"data.x"}},{"name":"y","type":"linear","range":"height","nice":true,"zero":false,"domain":{"data":"ed16f5c1-519d-4270-b505-ce4dcc8504da","field":"data.y"}}],"axes":[{"type":"x","scale":"x"},{"type":"y","scale":"y"}],"data":[{"name":"ed16f5c1-519d-4270-b505-ce4dcc8504da","values":[{"x":20,"y":24.31605332865524},{"x":70,"y":24.310307910124596},{"x":120,"y":24.24487752206849},{"x":170,"y":24.2671294858879},{"x":220,"y":23.99213295088448},{"x":270,"y":24.518572111905293},{"x":320,"y":23.911039029954956},{"x":370,"y":24.669000106056284},{"x":420,"y":24.172128326734722},{"x":470,"y":23.463711137655434},{"x":520,"y":24.389743801199735},{"x":570,"y":24.65251863429303},{"x":620,"y":24.080244965945788},{"x":670,"y":24.304410922513494},{"x":720,"y":23.56390431700292},{"x":770,"y":24.128413018941078},{"x":820,"y":24.609154534015353},{"x":870,"y":24.783617617450382},{"x":920,"y":24.387289903845925},{"x":970,"y":24.04706396203029},{"x":1020,"y":24.19471426605831}]}],"marks":[{"type":"symbol","from":{"data":"ed16f5c1-519d-4270-b505-ce4dcc8504da"},"properties":{"enter":{"x":{"field":"data.x","scale":"x"},"y":{"field":"data.y","scale":"y"},"fill":{"value":"steelblue"},"fillOpacity":{"value":1}},"update":{"shape":"circle","size":{"value":70},"stroke":{"value":"transparent"}},"hover":{"size":{"value":210},"stroke":{"value":"white"}}}}]},"value":"#gorilla_repl.vega.VegaView{:content {:width 400, :height 247.2188, :padding {:bottom 20, :top 10, :right 10, :left 50}, :scales [{:name \"x\", :type \"linear\", :range \"width\", :zero false, :domain {:data \"ed16f5c1-519d-4270-b505-ce4dcc8504da\", :field \"data.x\"}} {:name \"y\", :type \"linear\", :range \"height\", :nice true, :zero false, :domain {:data \"ed16f5c1-519d-4270-b505-ce4dcc8504da\", :field \"data.y\"}}], :axes [{:type \"x\", :scale \"x\"} {:type \"y\", :scale \"y\"}], :data ({:name \"ed16f5c1-519d-4270-b505-ce4dcc8504da\", :values ({:x 20, :y 24.31605332865524} {:x 70, :y 24.310307910124596} {:x 120, :y 24.24487752206849} {:x 170, :y 24.2671294858879} {:x 220, :y 23.99213295088448} {:x 270, :y 24.518572111905293} {:x 320, :y 23.911039029954956} {:x 370, :y 24.669000106056284} {:x 420, :y 24.172128326734722} {:x 470, :y 23.463711137655434} {:x 520, :y 24.389743801199735} {:x 570, :y 24.65251863429303} {:x 620, :y 24.080244965945788} {:x 670, :y 24.304410922513494} {:x 720, :y 23.56390431700292} {:x 770, :y 24.128413018941078} {:x 820, :y 24.609154534015353} {:x 870, :y 24.783617617450382} {:x 920, :y 24.387289903845925} {:x 970, :y 24.04706396203029} {:x 1020, :y 24.19471426605831})}), :marks ({:type \"symbol\", :from {:data \"ed16f5c1-519d-4270-b505-ce4dcc8504da\"}, :properties {:enter {:x {:field \"data.x\", :scale \"x\"}, :y {:field \"data.y\", :scale \"y\"}, :fill {:value \"steelblue\"}, :fillOpacity {:value 1}}, :update {:shape \"circle\", :size {:value 70}, :stroke {:value \"transparent\"}}, :hover {:size {:value 210}, :stroke {:value \"white\"}}}})}}"}
+;; <=
 
 ;; **
 ;;; **Test 2**
